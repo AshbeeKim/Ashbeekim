@@ -1,10 +1,5 @@
 # AshbeeKim
 
-## 1st. Titanic
-
-
-
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/AshbeeKim/3fdf6bf82ac3ab2dc0b0d2b88e8f3053/dl_titanic_ashbeekim.ipynb)
 -----------------
 
 ### Tips for easy access to Google Colab
