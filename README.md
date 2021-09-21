@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashbee%20Kim&fontSize=70&fontAlign=75&fontAlignY=45&desc=Codes,%20Docs,%20and%20Papers&descSize=20&descAlign=84&descAlignY=60)
 
-<h1 align="center"><bold>Status</bold></h1>
+<h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
+
+
+<h2 align="center">🛤️RoadMap</h2>
+<ol><big><b>Step1.</b> Data Analyst</big></ol>
+<ol><small>     <i>---------- in progress ----------</i></small></ol>
+<ol><big><b>Step2.</b> Full Stack Developer</big></ol>
+<ol><big><b>Step3.</b> Data Scientist</big></ol>
+
+<h2 align="center"><bold>Status</bold></h2>
 
 <!--
 https://github-readme-streak-stats.herokuapp.com/demo/. 
@@ -19,36 +28,53 @@ F0F8FF,D7ECFF,C6E2FF
 7289DA, 9CACE5, aab8e8, b8c4ec, c6cff0, d4dbf3, e2e7f7, f0f3fb, 9AABE5, 9ABDEC
 9CF5E5, A0F5CC, 9ADBE5
 -->
+
+[comment]: <> (표 작성 시작 부분)
+
 <div align="center"><table>
   <tbody>
-    <tr align="center"><th colspan="2">Top Language</th></tr>
-    <tr align="center"><td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeekim&title_color=7496E5&text_color=55E6AB&hide_border=False&bg_color=30,FFFFFF,F0F8FF" /></a></td></tr>
-    <tr align="center">
+    <tr align="center" colspan="3">
       <th>Repositories</th>
-      <th>:memo:</th></tr>
+      <th colspan="2">:memo:</th></tr>
     <tr align="center">
-      <td><a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <th></th>
+      <th rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></th>
+      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+    </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <td rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <th></th>
+      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+    </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <td rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <th></th>
+      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+    </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/anuraghazra/convoychat">
+      <td rowspan="2"><a href="https://github.com/anuraghazra/convoychat">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=dadaiksunTeamProject&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <th></th>
+      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
     </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    </tr>
+
+<!-- Programming Language 다양해지면 주석제거
+    <tr align="center"><th colspan="3">Top Language</th></tr>
+    <tr align="center"><td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width=500 height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeekim&title_color=7496E5&text_color=55E6AB&hide_border=False&bg_color=30,FFFFFF,F0F8FF" /></a></td></tr>
+-->
   </tbody>
 </table></div>
+
+[comment]: <> (표 작성  부분)
+
 <!--
 가벼운 통계
 <img src="https://github-readme-stats.vercel.app/api?username=AshbeeKim&show_icons=true&theme=" width="400">
@@ -61,16 +87,15 @@ https://skyline.github.com/
 <p align="center"><img src="https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/master?style=social"/></p>
 
 
-
-::**Codes**
+💻**Codes**
 
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)
 
-::**Docs**
+🗄️**Docs**
 
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)
 
-::**Papers**
+📃**Papers**
 
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)
 
@@ -79,5 +104,7 @@ https://skyline.github.com/
 
 <!--stats-->
 
+[comment]: <> (markdown comment code)
+[//]: <> (markdown comment shortcode)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer&text=Thank%20You&fontSize=90&fontAlignY=70)
