@@ -1,6 +1,40 @@
+'''import library'''
+import os
+import sys
+import shutil
+from glob import glob as gb
+
+import itertools
+import numpy as np
+import pandas as pd
+
+import tensorflow as tf
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPool2D
+from tensorflow.keras import backend as K
+from tensorflow.keras.layers import BatchNormalization
+
+from tensorflow.keras.optimizers import Adam
+# from tensorflow.keras.preprocessing.image import ImageDataGenerator
+# from tensorflow.keras.callbacks import ReduceLROnPlateau
+
+from tensorflow.keras import optimizers
+from tensorflow.keras.preprocessing.image import ResNet50
+from tensorflow.keras import regularizers
+
+from tensorflow.keras.callbacks import Callback
+from tensorflow.keras.models import load_model
+
+'''
+tensorflow version is 2.6.0
+codes are not stabled
+'''
+
 class MultiClass():
   '''
-  jpg에서 바로 불러오는 부분은 npy 파일로 대체함
+  this class for tensorflow, I already load images and saved .npy file, just fit to my code
+  텐서플로우에서 구동되도록 작성한 함수. jpg에서 바로 불러오는 부분은 npy 파일로 대체함
   '''
   def __init__(self, **params):
     self.dataframe = pd.read_csv(params['annotation_file'])
@@ -45,3 +79,41 @@ class MultiClass():
     self.multi_cls = tf.cast(to_categorical(self.classes, num_classes=len(self.cls_dict)), dtype=tf.int32)
     self.dataset = self.dataset = tf.data.Dataset.from_tensor_slices((self.images, self.multi_cls))
     return self.cls_dict, self.dataset
+
+class MCLS_Model(tf.keras):  #ResNet50, ~101, ~152, ~50V2, ~101V2, ~152V2
+  def __init__(self, dataset, cls_dict, **params): # parameters
+    self.dataset = dataset  # tensor형태
+    self.input_shape = tuple(self.dataset.element_spec[0].shape)  # Dataset's 0번째 데이터 :  이미지
+    self.cls_dict = cls_dict
+    self.num_classes = len(self.cls_dict.values())
+    self.params = params
+    self.batch_size = params["batch_size"]
+    self.epochs = params["epochs"]
+    # self.images, self.labels = next(iter(self.dataset))
+  
+  def MCLS_Build(self): # uncompiled model
+    # activation
+    repeat_act = self.params["repeat"]  #relu
+    last_act = self.params["last"]  #softmax
+    # base model
+    self.resnet = ResNet50(include_top=False, 
+                           weights = "imagenet",
+                           input_shape=self.input_shape)
+    # new model on top
+    self.inputs = Input(shape=self.input_shape)
+    
+
+  def MCLS_Compile(self): # compiled model
+    loss = self.params["loss"] # "sparse_categorical_crossentropy"
+    optimizer = self.params["optimizer"]# "SGD" #
+    if type(self.params["metrics"])==list:
+      metrics = self.params["metrics"]
+    else:
+      metrics = [self.params["metrics"]]
+
+    self.model = self.MCLS_Build()  # call uncompiled model
+    self.model.compile()
+    return self.model
+
+  def MCLS_History(self): # validation_split=0.1로 하면 KFOLD로 들어감. epochs을 높이면 불균형데이터 무관, shuffle도 가능, 
+    self.history = self.MCLS_Compile().fit()
