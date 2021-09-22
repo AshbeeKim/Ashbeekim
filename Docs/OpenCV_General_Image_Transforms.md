@@ -1,19 +1,5 @@
 # General Image Transforms
 
-* Stretch, Shrink, Warp, and Rotate
-  * Resize
-  * WarpAffine
-  * WarpPerspective
-
-* General Remappings
-  * Polor Mappings
-  * LogPolar
-  * Arbitrary Mappings
-* Image Repair
-  * Inpainting
-  * Denoising
-* Histogram Equalization(Contrast)
-
 ## cv.resize
 
 
@@ -95,12 +81,32 @@ circle로 각 포인트를 선언하는 것은 선택사항이나, 어떻게 변
 
 
 ```python
+H, W, C = image.shape
+# cv.line, cv.rectangle, cv.circle, cv.polylines등을 활용해서perspective transform을 적용할 포인트확인
+ 
+point_A = [x_1, y_1]
+point_B = [x_1, y_2]
+point_C = [x_2, y_2]
+point_D = [x_2, y_3]
+points = np.expand_dims(np.array([point_A, point_B, point_C, point_D]), 1)
+
+# cv2_imshow(cv.polylines(image, [points], True, (B, G, R), line_thickness))	# 어떻게 그려졌는지 확인하려면 필요함
+
+output_points = np.float32([[x_a, y_a], [x_a, y_b], [x_b, y_b], [x_b, y_a]])
+M = cv.getPerspectiveTransform(points.reshape(4,2).astype(np.float32), output_points)
+cv.warpPerspective(image, M, (W, H)) 
 
 ```
 
 
-~~
+여기서 M은 3*3 변환 행렬을 사용함. 변환하고자하는 객체가 사다리꼴의 형태를 가졌다면 상기와 같은 코드로 작성할 수 있음
+
+입력한 points의 shape은 (4, 2)인데 어떻게 3*3을 사용할 수 있냐면, cv.getPerspectiveTransform으로 4개의 기준점을 꼭지점으로 한 사각형의 형태로 반환하기 위한 연산식을  3*3 형태로 얻을 수 있기 때문임
+
+활용 방식에 대해서 생각을 해보자면, 소실점을 어떻게 두고, 기준점을 어떻게 잡느냐에 따라 로우 앵글, 하이 앵글, 인물 사진이라면 표정의 미세 변화 등의 효과도 줄 수 있을 것으로 예상됨
+
 
 [//]: <> (어이가 매우 없어서 승질나는 부분,,, 불러온 이미지 shape은 H, W, C,,,근데 본인들 패키지는 W, H...그러니까 x, y순으로 받음...휴..별...)
+
 
 Augmentaion과도 이어지는 이후의 내용 중 코드로 설명이 가능한 부분은 진행하고 수식으로 설명을 요하는 부분은 Albumentations에서 추가 기술할 예정이다.
