@@ -167,7 +167,7 @@ MCLS = MultiClass(**init_params)
 HAM_cls_dict, HAM_dataset = MCLS.preprocessing()
 '''
 
-class MCLS_Model(tf.keras):  #ResNet50, ~101, ~152, ~50V2, ~101V2, ~152V2
+class MCLS_Model():  #ResNet50, ~101, ~152, ~50V2, ~101V2, ~152V2
   def __init__(self, dataset, cls_dict, **params): # parameters
     self.dataset = dataset  # tensor형태
     self.input_shape = tuple(self.dataset.element_spec[0].shape)  # Dataset's 0번째 데이터 :  이미지
@@ -191,7 +191,7 @@ class MCLS_Model(tf.keras):  #ResNet50, ~101, ~152, ~50V2, ~101V2, ~152V2
     
 
   def MCLS_Compile(self): # compiled model
-    loss = self.params["loss"] # "sparse_categorical_crossentropy"
+    loss = self.params["loss"] # "sparse_categorical_crossentropy"  # int, "categorical_crossentropy" # one-hot
     optimizer = self.params["optimizer"]# "SGD" #
     if type(self.params["metrics"])==list:
       metrics = self.params["metrics"]
@@ -203,9 +203,33 @@ class MCLS_Model(tf.keras):  #ResNet50, ~101, ~152, ~50V2, ~101V2, ~152V2
     return self.model
 
   def MCLS_History(self): # validation_split=0.1로 하면 KFOLD로 들어감. epochs을 높이면 불균형데이터 무관, shuffle도 가능, 
-    self.history = self.MCLS_Compile().fit()
+    self.history = self.MCLS_Compile().fit(self.dataset, verbose=1,
+                                           epochs = self.epochs
+                                           batch_size = self.batch_size)#,
+                                          #  validate_)
+    
 
 # 아직 공식문서를 통한 코드 이해가 부족한 관계로 우선은 해당 내용까지만 작성
+
+# from sklearn.metrics import jaccard_score
+# # scikit-learn
+# def Jaccard_Score_MultiImbalanced(actual, predict, labels, infos=None):
+#   print(f"Calculate metrics for each label, and find their unweighted mean.  This does not take label imbalance into account.\
+#   \n{jaccard_score(Y_test, Y_pred, average='macro')}\
+#   \n\nCalculate metrics for each label, and find their average, weighted by support (the number of true instances for each label). This alters ‘macro’ to account for label imbalance.\
+#   \n{jaccard_score(Y_test, Y_pred, average='weighted')}")
+#   if infos:
+#     score = pd.DataFrame(jaccard_score(Y_test, Y_pred, average=None)).rename(columns={0:f'Jaccard Score({infos})'},index=labels)
+#   else:
+#     score = pd.DataFrame(jaccard_score(Y_test, Y_pred, average=None)).rename(columns={0:'Jaccard Score'},index=labels)
+#   return score
+
+# # 캐글 천사님께서 작성하신 함수
+# def jaccard_distance(y_true, y_pred, smooth=100):
+#     intersection = K.sum(K.abs(y_true * y_pred), axis=-1)
+#     sum_ = K.sum(K.square(y_true), axis = -1) + K.sum(K.square(y_pred), axis=-1)
+#     jaccard = (intersection + smooth) / (sum_ - intersection + smooth)
+#     return (1 - jaccard)
 '''How to train
 
 '''
