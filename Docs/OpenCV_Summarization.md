@@ -6,8 +6,9 @@ OpenCV
 
 -----
 
+[//]: <> (<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">)
 
-$$A\;\cdot\;M=B$$
+![formula](https://render.githubusercontent.com/render/math?math=A{\cdot}M=B)
 
 * A ; src_input image
 * M ; scalar, martix, function
@@ -36,7 +37,7 @@ cv.resize(src, dsize[, dst[, fx[, fy[, interpolation]]]]) ->	dst
 cv.warpAffine(src, M, dsize[, dst[, flags[, borderMode[, borderValue]]]]) ->	dst
 ```
 
-$$\texttt{dst} (x,y) = \texttt{src} ( \texttt{M} _{11} x + \texttt{M} _{12} y + \texttt{M} _{13}, \texttt{M} _{21} x + \texttt{M} _{22} y + \texttt{M} _{23})$$
+![formula](https://render.githubusercontent.com/render/math?math=\mathrm{dst}%28x,y%29=\mathrm{src}%28\mathrm{M}_{11}x%2B\mathrm{M}_{12}y%2B\mathrm{M}_{13},\mathrm{M}_{21}x%2B\mathrm{M}_{22}y%2B\mathrm{M}_{23}%29)
 
 * M ; 2 by 3 transformation matrix
   
