@@ -180,11 +180,16 @@ https://skyline.github.com/
 -->
 </br>
 
+* Kaggle_Skin_Cancer_Mnist(:construction:in-progress)
+
 🗄️**Docs**
 <!--
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)
 -->
 </br>
+
+* OpenCV(:construction: in progress)
+* Albumentations(:tada: just started)
 
 📃**Papers**
 <!--
