@@ -3,7 +3,7 @@
 <h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
 
 * :nerd_face: I'm currently learning Data Analytics
-* :construction_worker_woman: I'm currently working on a cowork project
+* :construction_worker_woman: I'm currently working on a [cowork project](https://github.com/Proj-Caliber)
 * :key: : :books:, :art:, :candy:
 
 <p align="right">
