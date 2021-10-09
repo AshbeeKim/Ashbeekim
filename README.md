@@ -119,6 +119,10 @@ F0F8FF,D7ECFF,C6E2FF
 7289DA, 9CACE5, aab8e8, b8c4ec, c6cff0, d4dbf3, e2e7f7, f0f3fb, 9AABE5, 9ABDEC
 9CF5E5, A0F5CC, 9ADBE5
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[//]: <> (--<h3 align="left">Languages and Tools:</h3><p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>-->)
 
 [comment]: <> (표 작성 시작 부분)
 <div align="center"><table>
@@ -126,6 +130,32 @@ F0F8FF,D7ECFF,C6E2FF
     <tr align="center" colspan="3">
       <th>Repositories</th>
       <th colspan="2">:memo:</th></tr>
+    <tr align="center">
+      <td rowspan="2"><a href="https://github.com/ashbeekim/AshbeeKim">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
+      <td>🗒️</td>
+      <td></br>
+        <p align="left">
+          💻<b>Codes</b>
+      <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)-->
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py">MultiClassImageDL(:construction:in-progress)</a></li>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Basic_WebScraping_in_colab.ipynb">BasicWebScarping(:construction:in-progress)</a></li>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb">LinearAlgebra(:tada:just-started)</a></li>
+        </p>
+        <p align="left">
+          🗄️<b>Docs</b>
+      <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)-->
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md">OpenCV(:construction:in-progress)</a></li>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md">Albumentations(:tada:just-started)</a></li>
+        </p>
+        <p align="left">
+          📃<b>Papers</b>
+          <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)-->
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">DBSCAN(:construction: in progress)</a></li>
+      <li align="left"><a>YOLOv1(:construction: in progress)</a></li></p></td>
+    </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    </tr>
     <tr align="center">
       <td rowspan="2"><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
@@ -175,38 +205,6 @@ https://skyline.github.com/
 
 [//]: <> (다른 내용 <p align="center"><img src="https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/master?style=social"/></p>)
 
-</br>
-
-💻**Codes**
-<!--
-![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)
--->
-
-* [MultiClassImageDL(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py)
-* [BasicWebScarping(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Basic_WebScraping_in_colab.ipynb)
-* [LinearAlgebra(:tada:just-started)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb)
-
-</br>
-
-🗄️**Docs**
-<!--
-![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)
--->
-
-* [OpenCV(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md)
-* [Albumentations(:tada:just-started)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md)
-
-</br>
-
-📃**Papers**
-<!--
-![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)
--->
-
-* [DBSCAN(:construction: in progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb)
-* YOLOv1(:construction: in progress)
-
-</br></br></br>
 
 <!--embedding markdown fontawesome icon
 
