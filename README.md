@@ -3,6 +3,7 @@
 <h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
 
 * :nerd_face: I'm currently learning Data Analytics
+* :woman_office_worker: I'm working on defining datas as an Intern.
 * :construction_worker_woman: I'm currently working on a [cowork project](https://github.com/Proj-Caliber)
 * :key: : :books:, :art:, :candy:
 
@@ -126,28 +127,28 @@ F0F8FF,D7ECFF,C6E2FF
       <th>Repositories</th>
       <th colspan="2">:memo:</th></tr>
     <tr align="center">
-      <th rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></th>
-      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
-    </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
-    </tr>
-    <tr align="center">
-      <td rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <td rowspan="2"><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
       <td>🗒️</td><td><!--[\\]: <>(description)--></td>
     </tr>
   <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <td rowspan="2"><a href="https://github.com/ashbeekim/Kaggle_Task">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
       <td>🗒️</td><td><!--[\\]: <>(description)--></td>
     </tr>
   <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/anuraghazra/convoychat">
+      <th rowspan="2"><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proj-Caliber&repo=Waste-Recycling-Image-Segmentation&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></th>
+      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+    </tr>
+  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    </tr>
+    <tr align="center">
+      <td rowspan="2"><a href="https://github.com/ashbeekim/dadaiksunTeamProject">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=dadaiksunTeamProject&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
       <td>🗒️</td><td><!--[\\]: <>(description)--></td>
     </tr>
@@ -174,27 +175,36 @@ https://skyline.github.com/
 
 [//]: <> (다른 내용 <p align="center"><img src="https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/master?style=social"/></p>)
 
+</br>
+
 💻**Codes**
 <!--
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)
 -->
-</br>
 
-* Kaggle_Skin_Cancer_Mnist(:construction:in-progress)
+* [MultiClassImageDL(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py)
+* [BasicWebScarping(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Basic_WebScraping_in_colab.ipynb)
+* [LinearAlgebra(:tada:just-started)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb)
+
+</br>
 
 🗄️**Docs**
 <!--
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)
 -->
-</br>
 
-* OpenCV(:construction: in progress)
-* Albumentations(:tada: just started)
+* [OpenCV(:construction:in-progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md)
+* [Albumentations(:tada:just-started)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md)
+
+</br>
 
 📃**Papers**
 <!--
 ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)
 -->
+
+* [DBSCAN(:construction: in progress)](https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb)
+* YOLOv1(:construction: in progress)
 
 </br></br></br>
 
