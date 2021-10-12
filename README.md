@@ -191,8 +191,8 @@ F0F8FF,D7ECFF,C6E2FF
         <p align="left">
           📃<b>Papers</b>
           <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)-->
-      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">DBSCAN(:construction: in progress)</a></li>
-      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">YOLOv1(:tada:just-started)</a></li></p></td>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">DBSCAN(:construction: in-progress)</a></li>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">YOLOv1(:construction:in-progress)</a></li></p></td>
     </tr>
   <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
     </tr>
@@ -249,7 +249,6 @@ https://skyline.github.com/
 -->
 
 [//]: <> (다른 내용 <p align="center"><img src="https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/master?style=social"/></p>)
-
 
 <!--embedding markdown fontawesome icon
 
