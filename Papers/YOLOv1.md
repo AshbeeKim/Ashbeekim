@@ -63,12 +63,12 @@
 [//]:<> (각각의 격자 공간은 $\mathrm{Pr}\lgroup{Class_i|Object}\rgroup$_클래스별 조건부 확률_도 예측, 이 확율이 격자 공간이 객체를 포함하는지에 대한 조건이 됨_weights나 feature information이라고 봐도 되는 부분?_. 격자 공간당 클래스별 확률은 하나씩만 예측가능._BBox수랑 무관_. 검증 시 클래스별 조건부확률 * 개별 box 얘상 정확도?)
 
 </br>
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\large%20Pr(Class_i%7CObject)%5C%3B*%5C%3BPr(Object)%5C%3B*%5C%3BIOU_%7Bpred%7D%5E%7Btruth%7D%5C%3B%3D%5C%3BPr(Class_i)%5C%3B*%5C%3BIOU_%7Bpred%7D%5E%7Btruth%7D"/></p></br>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=%5CLARGE%20Pr(Class_i%7CObject)%5C%3B*%5C%3BPr(Object)%5C%3B*%5C%3BIOU_%7Bpred%7D%5E%7Btruth%7D%5C%3B%3D%5C%3BPr(Class_i)%5C%3B*%5C%3BIOU_%7Bpred%7D%5E%7Btruth%7D"/></p></br>
 
 [//]:<> (위의 수식은 박스별 특정 클래스 신뢰도?를 구함. 그 점수는 박스 내 클래스의 확률과 해당 객체와 예측 박스의 적합도로 인코딩됨.)
 
 </br>
-<p align="left"><img src="https://render.githubusercontent.com/render/math?math=%5Clarge%7BFor%5C%3Bevaluationg%5C%3BYOLOv1%5C%3Bon%5C%3BPASCAL%5C%3BVOC%2C%7D"></p>
+<p align="left"><img src="https://render.githubusercontent.com/render/math?math=%5Clarge%7BFor%5C%3Bevaluationg%5C%3BYOLOv1%5C%3Bon%5C%3BPASCAL%5C%3BVOC%2C%7D"></p></br>
 <p margin-left="50px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://render.githubusercontent.com/render/math?math=%5Chuge%20S%20%3D%207%2C"></p>
 <p margin-left="50px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://render.githubusercontent.com/render/math?math=%5Chuge%20B%20%3D%202%2C"></p>
 <p margin-left="50px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://render.githubusercontent.com/render/math?math=%5Chuge%20C%20%3D%2020%5C%3B%5C%3B%5C%3B%5Ctiny%7B(20%5C%3Blabeled%5C%3Bclasses)%7D%2C"></p>
