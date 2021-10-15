@@ -2,9 +2,11 @@
 
 <h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
 
-* :nerd_face: I'm currently learning Data Analytics
-* :woman_office_worker: I'm working on defining datas as an Intern.
-* :construction_worker_woman: I'm currently working on a [cowork project](https://github.com/Proj-Caliber)
+* :nerd_face: I'm currently learning **Data Analytics**
+* :woman_office_worker: I'm working on **defining datas** as an Intern.
+* :construction_worker_woman: I'm currently working on a **[cowork project](https://github.com/Proj-Caliber)**
+* :clipboard: **Project** :clipboard:
+  * [데이터분석분야 챔피언리그 수산Biz | 2021 빅콘테스트](https://drive.google.com/file/d/1hCvM8B1dE7Mmhynd7sr88cPtLlFlF3Ud/view?usp=sharing)
 * :key: : :books:, :art:, :candy:
 
 <p align="right">
