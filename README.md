@@ -6,7 +6,8 @@
 * :woman_office_worker: I'm working on **defining datas** as an Intern.
 * :construction_worker_woman: I'm currently working on a **[cowork project](https://github.com/Proj-Caliber)**
 * :clipboard: **Project** :clipboard:
-  * [데이터분석분야 챔피언리그 수산Biz | 2021 빅콘테스트](https://drive.google.com/file/d/1hCvM8B1dE7Mmhynd7sr88cPtLlFlF3Ud/view?usp=sharing)
+  * [데이터분석분야 챔피언리그 수산Biz "팀_만조" | 2021 빅콘테스트](https://drive.google.com/file/d/1hCvM8B1dE7Mmhynd7sr88cPtLlFlF3Ud/view?usp=sharing)
+  * [미세먼지분석 "팀_다다익선" | SDAcademy](https://github.com/SD-academy/dadaiksunTeamProject/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%E1%84%86%E1%85%B5%E1%84%89%E1%85%A6%E1%84%86%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3.pdf)
 * :key: : :books:, :art:, :candy:
 
 <p align="right">
