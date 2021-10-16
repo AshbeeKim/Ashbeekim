@@ -170,14 +170,13 @@ F0F8FF,D7ECFF,C6E2FF
 [comment]: <> (표 작성 시작 부분, 나중에 하나씩 정리하면서 변경할 내용 : **✨를 repository밑으로 이동해서, 사용된 언어 및 툴 추가**)
 <div align="center"><table>
   <tbody>
-    <tr align="center" colspan="3">
-      <th>Repositories</th>
-      <th colspan="2">:memo:</th></tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/ashbeekim/AshbeeKim">
+      <th>Repositories</th>
+      <th>:memo:</th></tr>
+    <tr align="center">
+      <td><a href="https://github.com/ashbeekim/AshbeeKim">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td>🗒️</td>
-      <td></br>
+      <td rowspan="3"></br>
         <p align="left">
           💻<b>Codes</b>
       <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)-->
@@ -197,40 +196,45 @@ F0F8FF,D7ECFF,C6E2FF
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">DBSCAN(:construction: in-progress)</a></li>
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">YOLOv1(:construction:in-progress)</a></li></p></td>
     </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
-    </tr>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td></tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
+      <td><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+      <td rowspan="3"></br>
+        <p></p></td>
     </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/ashbeekim/Kaggle_Task">
+      <td><a href="https://github.com/ashbeekim/Kaggle_Task">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+      <td rowspan="3"><!--[\\]: <>(description)--></td>
     </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <th rowspan="2"><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation">
+      <th><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proj-Caliber&repo=Waste-Recycling-Image-Segmentation&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></th>
-      <td>🗒️</td><td></br>
+      <td rowspan="3"></br>
         <p align="left">
           🗄️<b>docs</b>/📃<b>papers</b>
       <!--<li align="left"><a href=""></a></li>
       <li align="left"><a href=""></a></li>-->
         </p></td>
     </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
     <tr align="center">
-      <td rowspan="2"><a href="https://github.com/ashbeekim/dadaiksunTeamProject">
+      <td><a href="https://github.com/ashbeekim/dadaiksunTeamProject">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=dadaiksunTeamProject&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td>🗒️</td><td><!--[\\]: <>(description)--></td>
+      <td rowspan="3"><!--[\\]: <>(description)--></td>
     </tr>
-  <tr><td>✨</td><td><!--[\\]: <>(stacks)--></td>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
 
 <!-- Programming Language 다양해지면 주석제거
