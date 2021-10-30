@@ -3,7 +3,7 @@
 <h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
 
 * :nerd_face: I'm currently learning **Data Analytics**
-* :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FastZone.
+* :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.
 * :woman_office_worker: I'm working on **defining datas** as an Intern.
 * :woman_technologist: I'm currently working on a **[cowork project](https://github.com/Proj-Caliber)**
 * :clipboard: **Project** :clipboard:
