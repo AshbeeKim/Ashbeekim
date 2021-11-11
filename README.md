@@ -222,8 +222,8 @@ F0F8FF,D7ECFF,C6E2FF
       <td rowspan="3"></br>
         <p align="left">
           🗄️<b>docs</b>/📃<b>papers</b>
-      <!--<li align="left"><a href=""></a></li>
-      <li align="left"><a href=""></a></li>-->
+      <!--<li align="left"><a href=""></a></li>-->
+ <li align="left">FasterRCNN</li><!--<a href=""></a></li>-->
         </p></td>
     </tr>
     <tr><td align="center">✨</td></tr>
