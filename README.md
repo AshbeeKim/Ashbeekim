@@ -227,7 +227,8 @@ F0F8FF,D7ECFF,C6E2FF
         </p></td>
     </tr>
     <tr><td align="center">✨</td></tr>
-    <tr><td><!--[\\]: <>(stacks)--></td>
+    <tr><td><p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/ashbeekim/dadaiksunTeamProject">
@@ -243,6 +244,15 @@ F0F8FF,D7ECFF,C6E2FF
     <tr align="center"><td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" width=500 height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeekim&title_color=7496E5&text_color=55E6AB&hide_border=False&bg_color=30,FFFFFF,F0F8FF" /></a></td></tr>
 -->
+
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
+-->
+
   </tbody>
 </table></div>
 
