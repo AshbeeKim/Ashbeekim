@@ -3,10 +3,12 @@
 <h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
 
 * :nerd_face: I'm currently learning **Data Analytics**
-* :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.
-* :woman_office_worker: I'm working on **defining datas** as an Intern.
-* :woman_technologist: I'm currently working on a **[cowork project](https://github.com/Proj-Caliber)**
-* :clipboard: **Project** :clipboard:
+* :clipboard: **Experience** :clipboard:
+  * :woman_office_worker: I'm working on **defining and comparing datas** as an Intern.
+  * :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.
+* :file_cabinet: **Project** :file_cabinet:
+  * :woman_technologist: I'm currently working on **[personal project](https://github.com/AshbeeKim/pub-org-data)** and **[team project](https://github.com/Proj-Caliber)** at the same time.
+  * [폐기물 이미지 분류 모델 팀 "Caliber" | AI-Challenge ( _4차 대회 3단계 track3_ )](https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation)
   * [데이터분석분야 챔피언리그 수산Biz "팀_만조" | 2021 빅콘테스트](https://drive.google.com/file/d/1hCvM8B1dE7Mmhynd7sr88cPtLlFlF3Ud/view?usp=sharing)
   * [미세먼지분석 "팀_다다익선" | SDAcademy](https://github.com/SD-academy/dadaiksunTeamProject/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%E1%84%86%E1%85%B5%E1%84%89%E1%85%A6%E1%84%86%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3.pdf)
 * :key: : :books:, :art:, :candy:
@@ -181,39 +183,19 @@ F0F8FF,D7ECFF,C6E2FF
       <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/codes?label=repo%2FCodes&style=social)-->
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py">MultiClassImageDL(:construction:in-progress)</a></li>
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Basic_WebScraping_in_colab.ipynb">BasicWebScarping(:construction:in-progress)</a></li>
-      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb">LinearAlgebra(:tada:just-started)</a></li>
-        </p>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb">LinearAlgebra(:tada:just-started)</a></li></p>
         <p align="left">
           🗄️<b>Docs</b>
       <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/docs?label=repo%2FDocs&style=social)-->
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md">OpenCV(:construction:in-progress)</a></li>
-      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md">Albumentations(:tada:just-started)</a></li>
-        </p>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md">Albumentations(:tada:just-started)</a></li></p>
         <p align="left">
           📃<b>Papers</b>
           <!--![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/papers?label=repo%2FPapers&style=social)-->
       <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">DBSCAN(:construction: in-progress)</a></li>
-      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">YOLOv1(:construction:in-progress)</a></li></p></td>
-    </tr>
+      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">YOLOv1(:construction:in-progress)</a></li></p></td></tr>
     <tr><td align="center">✨</td></tr>
     <tr><td><!--[\\]: <>(stacks)--></td></tr>
-    <tr align="center">
-      <td><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td rowspan="3"></br>
-        <p></p></td>
-    </tr>
-    <tr><td align="center">✨</td></tr>
-    <tr><td><!--[\\]: <>(stacks)--></td>
-    </tr>
-    <tr align="center">
-      <td><a href="https://github.com/ashbeekim/Kaggle_Task">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td rowspan="3"><!--[\\]: <>(description)--></td>
-    </tr>
-    <tr><td align="center">✨</td></tr>
-    <tr><td><!--[\\]: <>(stacks)--></td>
-    </tr>
     <tr align="center">
       <th><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proj-Caliber&repo=Waste-Recycling-Image-Segmentation&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></th>
@@ -236,6 +218,21 @@ F0F8FF,D7ECFF,C6E2FF
     <tr><td align="center">✨</td></tr>
     <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
+    <tr align="center">
+      <td><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
+      <td rowspan="3"></br>
+        <p></p></td>
+    </tr>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td></tr>
+    <tr align="center">
+      <td><a href="https://github.com/ashbeekim/Kaggle_Task">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
+      <td rowspan="3"><!--[\\]: <>(description)--></td></tr>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td></tr>
+
 
 <!-- Programming Language 다양해지면 주석제거
     <tr align="center"><th colspan="3">Top Language</th></tr>
@@ -267,7 +264,7 @@ https://skyline.github.com/
 [//]: <> (다른 내용 <p align="center"><img src="https://img.shields.io/github/commits-since/AshbeeKim/AshbeeKim/latest/master?style=social"/></p>)
 
 <!--embedding markdown fontawesome icon
-
+rr
 
 -->
 
