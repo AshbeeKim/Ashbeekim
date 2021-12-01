@@ -56,7 +56,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
  Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
+</br></br>
 
+<!--
 <h2 align="center">🛤️RoadMap</h2>
 <ol><big><b>Step1.</b> Data Analyst</big></ol>
 <ol><small>     <i>---------- in progress ----------</i></small></ol>
@@ -65,6 +67,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 [//]: <> (data analyst의 경우, Fundamentals, Statistics, Programming, Machine Learning, Text Mining/NLP, Visualization, Big Data, Data Ingestion, Data Munging, Toolbox에 대한 내용을 이해해야 함)
 [//]: <> (full-stack은 PM, Design, Back-End, Front-End, Mobile, Databases, DevOps, Version Control 등을 다 할 수 있어야 함)
 [//]: <> (data scientist는 보다 깊은 이해가 필요함_괜히 10년 경력자를 찾는게 아닌 듯_Math, Dev, Domain 삼위일체의 경지)-->
+
 
 
 [//]: <> (현재 보유 혹은 계발 중인 스킬셋)
@@ -147,10 +150,29 @@ Linux                    0 secs              ░░░░░░░░░░░�
     </tr>   
   </tbody>
 </table></div>
+</br></br>
 
 [comment]: <> (스킬셋 표 작성 종료 부분)
 
 
+
+[//]: <> (내용이 나올 수 있는 표)
+<h2 align="center"><bold>Status</bold></h2>
+<!--
+https://github-readme-streak-stats.herokuapp.com/demo/. 
+vue, tokypnight_duo, prussian, buefy, blue-green, react, city-lights, ayu_night, blueberry_duo
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo)](https://git.io/streak-stats)
+-->
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo"/></p>
+<!--
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashbeekim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+F0F8FF,D7ECFF,C6E2FF
+7289DA, 9CACE5, aab8e8, b8c4ec, c6cff0, d4dbf3, e2e7f7, f0f3fb, 9AABE5, 9ABDEC
+9CF5E5, A0F5CC, 9ADBE5
+-->
 
 [comment]: <> (표 작성 시작 부분, 나중에 하나씩 정리하면서 변경할 내용 : **✨를 repository밑으로 이동해서, 사용된 언어 및 툴 추가**)
 <div align="center"><table>
@@ -186,14 +208,23 @@ Linux                    0 secs              ░░░░░░░░░░░�
       <td rowspan="3"></br>
         <p align="left">
           🗄️<b>docs</b>/📃<b>papers</b>
-      <!--<li align="left"><a href=""></a></li>-->
- <li align="left">FasterRCNN</li><!--<a href=""></a></li>-->
+          <li align="left">FasterRCNN</li></br><!--<a href=""></a></li>-->
+          <li align="left">MMdetection</li><!--<a href=""></a></li>-->
+          <!--<li align="left"><a href=""></a></li>-->
         </p></td>
     </tr>
     <tr><td align="center">✨</td></tr>
     <tr><td><p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p></td>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p></td>
     </tr>
+    <tr align="center">
+      <td><a href="https://github.com/Proj-Caliber/crop-growth-period-predict">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proj-Caliber&repo=crop-growth-period-predict&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
+      <td rowspan="3"></br>
+        <p></p></td>
+    </tr>
+    <tr><td align="center">✨</td></tr>
+    <tr><td><!--[\\]: <>(stacks)--></td></tr>
     <tr align="center">
       <td><a href="https://github.com/ashbeekim/dadaiksunTeamProject">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=dadaiksunTeamProject&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
@@ -202,14 +233,6 @@ Linux                    0 secs              ░░░░░░░░░░░�
     <tr><td align="center">✨</td></tr>
     <tr><td><!--[\\]: <>(stacks)--></td>
     </tr>
-    <tr align="center">
-      <td><a href="https://github.com/ashbeekim/AshbeeKim.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim.github.io&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
-      <td rowspan="3"></br>
-        <p></p></td>
-    </tr>
-    <tr><td align="center">✨</td></tr>
-    <tr><td><!--[\\]: <>(stacks)--></td></tr>
     <tr align="center">
       <td><a href="https://github.com/ashbeekim/Kaggle_Task">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=Kaggle_Task&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
