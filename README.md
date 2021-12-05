@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashbee%20Kim&fontSize=70&fontAlign=75&fontAlignY=45&desc=Codes,%20Docs,%20and%20Papers&descSize=20&descAlign=84&descAlignY=60)
 
-<h1>🙌🏻 Hello, I'm Ashbee Kim.</h1>
+[//]: <> (대회 끝내고, script 공부하면서 capsule-render 참고한 방식으로 원하는 규격으로 재생성하기)
 
+
+# 🙌🏻 Hello, I'm Ashbee Kim.
 * :nerd_face: I'm currently learning **Data Analytics**
 * :clipboard: **Experience** :clipboard:
   * :woman_office_worker: I'm working on **defining and comparing datas** as an Intern.
-  * :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.
+  * <p width="500"> :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.</p>
 * :file_cabinet: **Project** :file_cabinet:
   * :woman_technologist: I'm currently working on **[personal project](https://github.com/AshbeeKim/pub-org-data)** and **[team project](https://github.com/Proj-Caliber)** at the same time.
   * [폐기물 이미지 분류 모델 팀 "Caliber" | AI-Challenge ( _4차 대회 3단계 track3_ )](https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation)
@@ -74,7 +76,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <h2 align="center">:seedling:Stack</h2>
 
 [//]: <> (스킬셋 표)
-<div align="center"><table>
+<div align="center" width="600"><table>
   <tbody>
     <tr align="center">
       <th colspan="2">🛠️ Teck Tools 🛠️</th>
@@ -83,76 +85,84 @@ Linux                    0 secs              ░░░░░░░░░░░�
     </tr>
     <tr align="center">
       <td colspan="2">Languages</td>
-      <td colspan="2">Community</td>
+      <td colspan="2">Cloud</td>
       <td colspan="2">Adobe</td>
     </tr>
     <tr align="center">
-      <td><img align="right" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></td>
+      <td><img align="right" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></td>
       <td><img alt="python" src="https://img.shields.io/badge/Python-v3.7%20%7C%20v3.9-blue.svg?&style=flat&logo=Python&logoColor=white&labelColor=abcdef&cacheSeconds=3600$logoWidth=60"/></td>
-      <td></td>
-      <td></td>
+      <td><img align="right" alt="Google Drive" width="26px" src="https://github.com/quintessence/slack-icons/blob/master/images/google-drive-logo-slack-icon.png"/></td>
+      <td><img alt="Google%20Cloud" src="https://img.shields.io/badge/Google-%20GCP%28GCE%29%20-4285F4.svg?&style=flat&logo=googledrive&logoColor=white&labelColor=0C9D58&cacheSeconds=3600$logoWidth=70"/><!--아직까진 google drive, google cloud를 적을 수준이 되면 바꾸기--></td>
       <td><img align="right" alt="Photoshop" width="22px" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ps_cc_app_RGB.svg" /></td>
-      <td><img alt="Photoshop" src="https://img.shields.io/badge/Ps-CC%202020%20|%202021-31A8FF.svg?&style=flat&logo=Adobe Photoshop&logoColor=white&labelColor=220052&cacheSeconds=3600$logoWidth=70"/></td>
+      <td><img alt="Photoshop" src="https://img.shields.io/badge/Ps-CC%202020%20|%202021-31A8FF.svg?&style=flat&logo=Adobe Photoshop&logoColor=white&labelColor=162D54&cacheSeconds=3600$logoWidth=70"/></td>
     </tr>
     <tr align="center">
-      <td><img align="right" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
+      <td><img align="right" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
       <td><img alt="HTML" src="https://img.shields.io/badge/HTML5-spark%20%7C%20django-E34F26.svg?&style=flat&logo=HTML5&logoColor=white&labelColor=F99A66&cacheSeconds=3600$logoWidth=40"/></td>
-      <td></td>
-      <td></td>
+      <td><img align="right" alt="Google Colab" width="26px" src="https://github.com/lsgrep/Google-Colab-Tips-and-Tricks/blob/master/assets/Colab.png"/></td>
+      <td><img alt="Google%20Colab" src="https://img.shields.io/badge/Google-%20Colaboratory%20-EF8212.svg?&style=flat&logo=googlecolab&logoColor=white&labelColor=F9AB00&cacheSeconds=3600$logoWidth=50"/></td>
       <td><img align="right" alt="Illustrator" width="22px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" /></td>
       <td><img alt="Illustrator" src="https://img.shields.io/badge/Ai-CC%202020%20|%202021-FF9A00.svg?&style=flat&logo=AdobeIllustrator&logoColor=white&labelColor=FF7328&cacheSeconds=3600$logoWidth=70"/></td>
     </tr>
     <tr align="center">
       <td><img align="right" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></td>
-      <td><img alt="R" src="https://img.shields.io/badge/%20%20R%20%20-%20%7C%20-276DC3.svg?&style=flat&logo=R&logoColor=white&labelColor=9E9E9E&cacheSeconds=3600$logoWidth=70"/></td>
-      <td></td>
-      <td></td>
+      <td><img alt="R" src="https://img.shields.io/badge/%20%20R%20%20-rpy2%20%7C%20just%20started-276DC3.svg?&style=social&logo=R&logoColor=gray&labelColor=9E9E9E&cacheSeconds=3600$logoWidth=50"/></td>
+      <td><img align="right" alt="Adobe Creative Cloud logo" width="26px" src="https://github.com/Kalbra/discord-connector/blob/master/logos/CC.png" /></td>
+      <td><img alt="Adobe%20Creative%20Cloud" src="https://img.shields.io/badge/Adobe%20CC-2020%20|%202021-FF6550.svg?&style=flat&logo=adobecreativecloud&logoColor=white&labelColor=DA1F26&cacheSeconds=3600$logoWidth=50"/></td>
       <td><img align="right" alt="Premiere Pro" width="22px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" /></td>
       <td><img alt="Premiere Pro" src="https://img.shields.io/badge/Pr-CC%202020%20|%202021-9999FF.svg?&style=flat&logo=AdobePremierePro&logoColor=white&labelColor=2C5BB4&cacheSeconds=3600$logoWidth=70"/></td>
     </tr>
     <tr align="center">
       <td colspan="2"> OS </td>
-      <td></td>
-      <td></td>
+      <td colspan="2"> Community </td>
       <td><img align="right" alt="After Effects" width="22px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" /></td>
       <td><img alt="After Effects" src="https://img.shields.io/badge/Ae-CC%202020%20|%202021-9999FF.svg?&style=flat&logo=AdobeAfterEffects&logoColor=white&labelColor=7E4DD2&cacheSeconds=3600$logoWidth=60"/></td>
     </tr>
     <tr align="center">
       <td><img align="right" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></td>
       <td><img alt="terminal" src="https://img.shields.io/badge/shell-%20zsh%20%7C%20bash-999999.svg?&style=flat&logo=iTerm2&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/></td>
+      <td><img align="right" alt="slack logo" width="34px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/Slack_Mark.svg"/></td>
+      <td><img alt="slack" src="https://img.shields.io/badge/slack-%20Ashbee%20Kim%20-63377C.svg?&style=flat&logo=slack&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/></td>
+     <td colspan="2"><!--Analytics--></td>
+    </tr>
+    <tr align="center">
       <td></td>
       <td></td>
-      <td></td>
+      <td><img align="right" alt="Discord logo" width="26px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/Discord-Logo-Color.svg"/></td>
+      <td><img alt="discord" src="https://img.shields.io/badge/Discord-%20Ashbee%20Kim%20-796BF8.svg?&style=flat&logo=discord&logoColor=white&labelColor=493AD9&cacheSeconds=3600$logoWidth=80"/></td>
+      <td><!--tableau 공부하고 추가하기--></td>
       <td></td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    <tr align="center">
+      <td colspan="2"> DB </td>
+      <td><img align="right" alt="Linked In" width="26px" src="https://github.com/quintessence/slack-icons/blob/master/images/linkedin-logo-slack-icon.png"/></td>
+      <td><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Ashbee%20Kim%20-5C8EE3.svg?&style=flat&logo=linkedin&logoColor=white&labelColor=295FBB&cacheSeconds=3600$logoWidth=80"/></td>
       <td></td>
       <td></td>
     </tr>
     <tr align="center">
-      <td colspan="2"> Cloud </td>
+      <td></td>
+      <td></td>
+      <td><img align="right" alt="Trello logo" width="30px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/icon-gradient-blue-trello.svg"/></td>
+      <td><img alt="Trello" src="https://img.shields.io/badge/Trello-%20Ashbee%20Kim%20-6BA2D4.svg?&style=flat&logo=trello&logoColor=white&labelColor=3070AA&cacheSeconds=3600$logoWidth=80"/></td>
+      <td></td>
+      <td></td>
+    </tr>  
+    <!--<tr>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>   
+    </tr>-->
   </tbody>
 </table></div>
+<!--brand logo guideline에 걸려서, 따로 수정 못하는 것들은 div로 여백 및 비율 수정 나중에 한가할 때 하가!-->
 </br></br>
 
 [comment]: <> (스킬셋 표 작성 종료 부분)
+
 
 
 
@@ -215,7 +225,7 @@ F0F8FF,D7ECFF,C6E2FF
     </tr>
     <tr><td align="center">✨</td></tr>
     <tr><td><p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p></td>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></p></td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/Proj-Caliber/crop-growth-period-predict">
@@ -259,6 +269,9 @@ F0F8FF,D7ECFF,C6E2FF
 </table></div>
 
 [comment]: <> (표 작성  부분)
+
+<!--프로젝트 표 포맷도 한 2022년 1월 쯤에 바꾸기-->
+
 <!--
 가벼운 통계
 <img src="https://github-readme-stats.vercel.app/api?username=AshbeeKim&show_icons=true&theme=" width="400">
