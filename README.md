@@ -7,7 +7,7 @@
 * :nerd_face: I'm currently learning **Data Analytics**
 * :clipboard: **Experience** :clipboard:
   * :woman_office_worker: I'm working on **defining and comparing datas** as an Intern.
-  * <p width="40%"> :woman_teacher: I worked as a **Facilitator** for ADsP(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional) course with KDN, FirstZone.</p>
+    <li> :woman_teacher: I worked as a <b>Facilitator</b> for ADsP course with KDN, FirstZone.</br>&nbsp&nbsp&nbsp&nbsp(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional)</li>
 * :file_cabinet: **Project** :file_cabinet:
   * :woman_technologist: I'm currently working on **[personal project](https://github.com/AshbeeKim/pub-org-data)** and **[team project](https://github.com/Proj-Caliber)** at the same time.
   * [폐기물 이미지 분류 모델 팀 "Caliber" | AI-Challenge ( _4차 대회 3단계 track3_ )](https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation)
