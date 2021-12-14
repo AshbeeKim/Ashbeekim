@@ -123,15 +123,11 @@
     <th colspan="3"><h3><b>Summaries</b></h3></th>
    </tr>
    <tr align="center">
-    <td colspan="2"><div align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie&title=Commits,PullRequest,Repositories&column=3"/></a></td>
-    <td><a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeekim&layout=compact"/></a></div></td>
-   </tr>
-   <tr align="center">
     <td rowspan=2" colspan="2"><a href="https://github.com/ashbeekim/AshbeeKim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashbeekim&repo=AshbeeKim&title_color=7496E5&text_color=55E6AB&hide_border=False" /></a></td>
     <td>:memo:</th></td>
    </tr>
    <tr align="center">
-                     <td><div align="center"><p></br>:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/> :sparkles:</p><p>:pencil2:<!--[\\]: <>(stacks)--></p></div></td>
+    <td><div align="center"><p></br>:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/> :sparkles:</p><p>:pencil2:<!--[\\]: <>(stacks)--></p></div></td>
    </tr>
    <tr align="center">
     <td>💻<b>Codes</b></td>
@@ -145,7 +141,7 @@
      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb">:tada:LinearAlgebra:tada:</a></li></p>
     </td>
     <td><p align="left">
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md">:construction:OpenCV:construction:</a></li>
+     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md">OpenCV     - basic</a></li>
      <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md">:tada:Albumentations:tada:</a></li></p>
     </td>
     <td><p align="left">
@@ -158,7 +154,7 @@
     <td>:memo:</th></td>
    </tr>
    <tr align="center">
-    <td><p align="center">:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> :sparkles:</p></br><p>:pencil2:<!--[\\]: <>(stacks)--></p></td>
+    <td><p align="center">:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> :sparkles:</p></br><p>:pencil2: : :bug:JSONDecodeError:bug:</p></td>
    </tr>
    <tr align="center">
     <td>💻<b>Codes</b></td>
@@ -167,18 +163,20 @@
    </tr>
    <tr align="center">
     <td><p align="left">
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py">:construction:MultiClassImageDL:construction:</a></li>
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Basic_WebScraping_in_colab.ipynb">:construction:BasicWebScarping:construction:</a></li>
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Matrices_and_GaussianElimination.ipynb">:tada:LinearAlgebra:tada:</a></li></p>
+     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Codes/Multi_Class_Image_DL.py">checking data formats</br><small>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- for EDA</small></a></li>
+     <li align="left"><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation/blob/master/docs/tutorials/caliber_basic_model_trial.ipynb">custom model baselines</br>&nbsp&nbsp&nbsp&nbsp- passed Sample Datasets</a></li></p>
     </td>
     <td><p align="left">
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/OpenCV_General_Image_Transforms.md">:construction:OpenCV:construction:</a></li>
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Docs/Albumentation_Summarization.md">:tada:Albumentations:tada:</a></li></p>
+     <li align="left"><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation/blob/master/docs/tutorials/double-check-annotations.ipynb">OpenCV</br><small>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- segmentation</small></a></li></p>
     </td>
     <td><p align="left">
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/UtilizeDBSCAN.ipynb">:construction:DBSCAN:construction:</a></li>
-     <li align="left"><a href="https://github.com/AshbeeKim/AshbeeKim/blob/master/Papers/YOLOv1.md">:construction:YOLOv1:construction:</a></li></p>
+     <li align="left"><a href="https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation/blob/master/docs/tutorials/MaskRCNN_Tutorial.ipynb">MaskRCNN tutorial <span> - ref.PyTorch</span></a></li></p>
     </td>
+   </tr>
+   <!--레포 추가 시 해당 라인부터-->
+   <tr align="center">
+    <td colspan="2"><div align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie&title=Commits,PullRequest,Repositories&column=3"/></a></td>
+    <td><a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeekim&layout=compact"/></a></div></td>
    </tr>
   </tbody>
  </table>
