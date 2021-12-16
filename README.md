@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashbee%20Kim&fontSize=70&fontAlign=75&fontAlignY=45&desc=Codes,%20Docs,%20and%20Papers&descSize=20&descAlign=84&descAlignY=60)
 
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAshbeeKim)](https://hits.seeyoufarm.com) 
+	
+  </div>
+
 [//]: <> (대회 끝내고, script 공부하면서 capsule-render 참고한 방식으로 원하는 규격으로 재생성하기)
 
 
@@ -26,7 +32,7 @@
  <table><caption align="center"><large><b><h3>:seedling:Stacks:seedling:</h3></b></large></caption>
   <tbody>
    <tr align="center">
-    <th colspan="2">🛠️ Teck Tools 🛠️</th>
+    <th colspan="2">🛠️ Tech Tools 🛠️</th>
     <th colspan="2">💬 Cowork Tools 💬</th>
     <th colspan="2">🕸️ Design Tools 🕸️</th>
    </tr>
@@ -46,52 +52,52 @@
    <tr align="center">
     <td><img align="right" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
     <td><img alt="HTML" src="https://img.shields.io/badge/HTML5-spark%20%7C%20django-E34F26.svg?&style=flat&logo=HTML5&logoColor=white&labelColor=F99A66&cacheSeconds=3600$logoWidth=40"/></td>
-    <td><img align="right" alt="Google Colab" width="26px" src="https://github.com/lsgrep/Google-Colab-Tips-and-Tricks/blob/master/assets/Colab.png"/></td>
-    <td><img alt="Google%20Colab" src="https://img.shields.io/badge/Google-%20Colaboratory%20-EF8212.svg?&style=flat&logo=googlecolab&logoColor=white&labelColor=F9AB00&cacheSeconds=3600$logoWidth=50"/></td>
+    <td><img align="right" alt="Adobe Creative Cloud logo" width="26px" src="https://github.com/Kalbra/discord-connector/blob/master/logos/CC.png" /></td>
+    <td><img alt="Adobe%20Creative%20Cloud" src="https://img.shields.io/badge/Adobe%20CC-2020%20|%202021-FF6550.svg?&style=flat&logo=adobecreativecloud&logoColor=white&labelColor=DA1F26&cacheSeconds=3600$logoWidth=50"/></td>
     <td><img align="right" alt="Illustrator" width="22px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" /></td>
     <td><img alt="Illustrator" src="https://img.shields.io/badge/Ai-CC%202020%20|%202021-FF9A00.svg?&style=flat&logo=AdobeIllustrator&logoColor=white&labelColor=FF7328&cacheSeconds=3600$logoWidth=70"/></td>
    </tr>
    <tr align="center">
     <td><img align="right" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></td>
     <td><img alt="R" src="https://img.shields.io/badge/%20%20R%20%20-rpy2%20%7C%20just%20started-276DC3.svg?&style=social&logo=R&logoColor=gray&labelColor=9E9E9E&cacheSeconds=3600$logoWidth=50"/></td>
-    <td><img align="right" alt="Adobe Creative Cloud logo" width="26px" src="https://github.com/Kalbra/discord-connector/blob/master/logos/CC.png" /></td>
-    <td><img alt="Adobe%20Creative%20Cloud" src="https://img.shields.io/badge/Adobe%20CC-2020%20|%202021-FF6550.svg?&style=flat&logo=adobecreativecloud&logoColor=white&labelColor=DA1F26&cacheSeconds=3600$logoWidth=50"/></td>
+    <td></td>
+    <td></td>
     <td><img align="right" alt="Premiere Pro" width="22px" src="https://raw.githubusercontent.com/qanastek/qanastek/master/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" /></td>
     <td><img alt="Premiere Pro" src="https://img.shields.io/badge/Pr-CC%202020%20|%202021-9999FF.svg?&style=flat&logo=AdobePremierePro&logoColor=white&labelColor=2C5BB4&cacheSeconds=3600$logoWidth=70"/></td>
    </tr>
    <tr align="center">
     <td colspan="2"> OS </td>
-    <td colspan="2"> Community </td>
+    <td colspan="2"> Communication </td>
     <td><img align="right" alt="After Effects" width="22px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" /></td>
     <td><img alt="After Effects" src="https://img.shields.io/badge/Ae-CC%202020%20|%202021-9999FF.svg?&style=flat&logo=AdobeAfterEffects&logoColor=white&labelColor=7E4DD2&cacheSeconds=3600$logoWidth=60"/></td>
    </tr>
    <tr align="center">
     <td><img align="right" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></td>
     <td><img alt="terminal" src="https://img.shields.io/badge/shell-%20zsh%20%7C%20bash-999999.svg?&style=flat&logo=iTerm2&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/></td>
+    <td><img align="right" alt="Google Colab" width="26px" src="https://github.com/lsgrep/Google-Colab-Tips-and-Tricks/blob/master/assets/Colab.png"/></td>
+    <td><img alt="Google%20Colab" src="https://img.shields.io/badge/Google-%20Colaboratory%20-EF8212.svg?&style=flat&logo=googlecolab&logoColor=white&labelColor=F9AB00&cacheSeconds=3600$logoWidth=50"/></td>
+    <td colspan="2"><!--Analytics--></td>
+   </tr>
+   <tr align="center">
+    <td></td>
+    <td></td>
+    <td><img align="right" alt="github logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></td>
+    <td><img alt="github" src="https://img.shields.io/badge/github-%20Ashbee%20Kim%20-999999.svg?&style=flat&logo=github&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/></td>
+    <td><!--tableau 공부하고 추가하기--></td>
+    <td></td>
+   </tr>
+   <tr align="center">
+    <td colspan="2"> DB </td>
     <td><img align="right" alt="slack logo" width="34px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/Slack_Mark.svg"/></td>
     <td><img alt="slack" src="https://img.shields.io/badge/slack-%20Ashbee%20Kim%20-63377C.svg?&style=flat&logo=slack&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/></td>
-    <td colspan="2"><!--Analytics--></td>
+    <td></td>
+    <td></td>
    </tr>
    <tr align="center">
     <td></td>
     <td></td>
     <td><img align="right" alt="Discord logo" width="26px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/Discord-Logo-Color.svg"/></td>
     <td><img alt="discord" src="https://img.shields.io/badge/Discord-%20Ashbee%20Kim%20-796BF8.svg?&style=flat&logo=discord&logoColor=white&labelColor=493AD9&cacheSeconds=3600$logoWidth=80"/></td>
-    <td><!--tableau 공부하고 추가하기--></td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td colspan="2"> DB </td>
-    <td><img align="right" alt="Linked In" width="26px" src="https://github.com/quintessence/slack-icons/blob/master/images/linkedin-logo-slack-icon.png"/></td>
-    <td><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Ashbee%20Kim%20-5C8EE3.svg?&style=flat&logo=linkedin&logoColor=white&labelColor=295FBB&cacheSeconds=3600$logoWidth=80"/></td>
-    <td></td>
-    <td></td>
-   </tr>
-   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><img align="right" alt="Trello logo" width="30px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/icon-gradient-blue-trello.svg"/></td>
-    <td><img alt="Trello" src="https://img.shields.io/badge/Trello-%20Ashbee%20Kim%20-6BA2D4.svg?&style=flat&logo=trello&logoColor=white&labelColor=3070AA&cacheSeconds=3600$logoWidth=80"/></td>
     <td></td>
     <td></td>
    </tr>  
@@ -106,7 +112,14 @@
   </tbody>
  </table>
 </div>
-<!--brand logo guideline에 걸려서, 따로 수정 못하는 것들은 div로 여백 및 비율 수정 나중에 한가할 때 하가!-->
+<!--brand logo guideline에 걸려서, 따로 수정 못하는 것들은 div로 여백 및 비율 수정 나중에 한가할 때 하기!
+<td><img align="right" alt="Linked In" width="26px" src="https://github.com/quintessence/slack-icons/blob/master/images/linkedin-logo-slack-icon.png"/></td>
+    <td><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Ashbee%20Kim%20-5C8EE3.svg?&style=flat&logo=linkedin&logoColor=white&labelColor=295FBB&cacheSeconds=3600$logoWidth=80"/></td>
+gmail, linkedin 등은 연락을 바로 보낼 수 있는 방식으로 수정하기
+<td><img align="right" alt="Trello logo" width="30px" src="https://github.com/AshbeeKim/AshbeeKim/blob/master/.github/image/icon-gradient-blue-trello.svg"/></td>
+    <td><img alt="Trello" src="https://img.shields.io/badge/Trello-%20Ashbee%20Kim%20-6BA2D4.svg?&style=flat&logo=trello&logoColor=white&labelColor=3070AA&cacheSeconds=3600$logoWidth=80"/></td>
+사용법은 알지만, github에도 유사 서비스가 있기에 trello가 진짜 필요한지는 고민해보기
+-->
 </br>
 
 [comment]: <> (스킬셋 표 작성 종료 부분)
@@ -154,7 +167,7 @@
     <td>:memo:</th></td>
    </tr>
    <tr align="center">
-    <td><p align="center">:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> :sparkles:</p></br><p>:pencil2: : :bug:JSONDecodeError:bug:</p></td>
+    <td><p align="center">:sparkles: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/OpenCV-6A2E6D?style=flat-square&logo=opencv&logoColor=white"/> :sparkles:</p></br><p>:pencil2: : :bug:JSONDecodeError:bug:</p></td>
    </tr>
    <tr align="center">
     <td>💻<b>Codes</b></td>
