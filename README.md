@@ -12,7 +12,7 @@
 # 🙌🏻 Hello, I'm Ashbee Kim. 
 * :nerd_face: I'm currently learning **Data Analytics**
 * :clipboard: **Experience** :clipboard:
-  * :woman_office_worker: I'm working on **defining and comparing datas** as an Intern.
+  * :woman_office_worker: I worked on **defining and comparing datas** as an Intern.
     <li> :woman_teacher: I worked as a <b>Facilitator</b> for ADsP course with KDN, FirstZone.</br>&nbsp&nbsp&nbsp&nbsp(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional)</li>
 * :file_cabinet: **Project** :file_cabinet:
   * :woman_technologist: I'm currently working on **[personal project](https://github.com/AshbeeKim/pub-org-data)** and **[team project](https://github.com/Proj-Caliber)** at the same time.
