@@ -10,8 +10,9 @@
 
 
 # 🙌🏻 Hello, I'm Ashbee Kim. 
-* :nerd_face: I'm currently learning **Data Analytics**
+* :nerd_face: I'm currently learning **RPA** and **Data Analytics**.
 * :clipboard: **Experience** :clipboard:
+  * :woman_office_worker: My current position is a **Python Developer**.
   * :woman_office_worker: I worked on **defining and comparing datas** as an Intern.
     <li> :woman_teacher: I worked as a <b>Facilitator</b> for ADsP course with KDN, FirstZone.</br>&nbsp&nbsp&nbsp&nbsp(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional)</li>
 * :file_cabinet: **Project** :file_cabinet:
