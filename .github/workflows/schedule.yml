@@ -11,7 +11,7 @@ jobs:
         uses: matchai/waka-box@v4.0.5
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_GIST }}
           GIST_ID: ${{ secrets.GIST_ID }}
           LOCALE: "en"
           SHOW_LINES_OF_CODE: "True"
