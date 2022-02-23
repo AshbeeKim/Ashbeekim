@@ -248,8 +248,6 @@ gmail, linkedin 등은 연락을 바로 보낼 수 있는 방식으로 수정하
 <div align="center" width="80%">
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2032%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -289,7 +287,7 @@ Mac                      10 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 22/02/2022 18:50:34 UTC
+ Last Updated on 23/02/2022 18:49:16 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
