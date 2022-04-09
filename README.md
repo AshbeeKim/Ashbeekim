@@ -14,14 +14,14 @@
   * [당뇨병 분류 예측 분석 보고서::IN-PROGRESS](https://docs.google.com/presentation/d/1C-j_9iaEcVS5mfMNPfzPMfVWOVj34lBlETePf6CTo2o/edit?usp=sharing)
   * [AI-Challenge ( _4차 대회 3단계 track3_ )/폐플라스틱 객체검출 예측 경진대회 | 폐기물 이미지 분류 모델 팀 "Caliber"](https://github.com/Proj-Caliber/Waste-Recycling-Image-Segmentation)
   * [2021 빅콘테스트 | 데이터분석분야 챔피언리그 수산Biz "팀_만조"](https://drive.google.com/file/d/1hCvM8B1dE7Mmhynd7sr88cPtLlFlF3Ud/view?usp=sharing)
-  * [SDAcademy | 미세먼지분석 "팀_다다익선"](https://github.com/SD-academy/dadaiksunTeamProject/blob/main/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%E1%84%86%E1%85%B5%E1%84%89%E1%85%A6%E1%84%86%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3.pdf)
+  * [SDAcademy | 미세먼지분석 "팀_다다익선"](https://drive.google.com/file/d/1cqnHrDa93ztn9b4myRmc5PGxsOdbRAxG/view?usp=sharing)
 * :nerd_face: **Education** :nerd_face:
-  * [Qwiklabs | Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)
-  * **[Qwiklabs | Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)** 수료
+  * [Qwiklabs | Google Cloud Skills Boost's badge profile](https://www.cloudskillsboost.google/public_profiles/97e8f540-bf60-4f75-9a8e-025c1cc95a24)
+    * [Qwiklabs | Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)
+    * **[Qwiklabs | Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)** 수료
   * **SDAcademy | 최적화된 도구 (R/Python)를 활용한 애널리스트 양성과정** 수료
   * **종로여성인력개발센터 | 빅데이터 수집과 분석기술을 활용한 데이터 시각화(파이썬)** 수료
 * :clipboard: **Experience** :clipboard:
-  * :woman_office_worker: My current position is a **Python Developer**.
   * :woman_office_worker: I worked on **defining and comparing datas** as an Intern.
     <li> :woman_teacher: I worked as a <b>Facilitator</b> for ADsP course with KDN, FirstZone.</br>&nbsp&nbsp&nbsp&nbsp(데이터분석 준전문가 과정, Advanced Data Analytics Semi-Professional)</li>
 * :key: : :books:, :art:, :candy:
