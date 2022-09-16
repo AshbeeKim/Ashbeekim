@@ -36,15 +36,15 @@
 ## Stacks
 * ### Fluent
   * <img alt="Python" src="https://img.shields.io/badge/Python-v3.7%20%7C%20v3.9-blue.svg?&style=flat&logo=Python&logoColor=white&labelColor=abcdef&cacheSeconds=3600$logoWidth=60"/>
+  * <img alt="HTML" src="https://img.shields.io/badge/HTML5-jinja2%20%7C%20HTML-E34F26.svg?&style=flat&logo=HTML5&logoColor=white&labelColor=F99A66&cacheSeconds=3600$logoWidth=40"/>
 * ### Intermediate
   * <img alt="terminal" src="https://img.shields.io/badge/shell-%20zsh%20%7C%20bash-999999.svg?&style=flat&logo=iTerm2&logoColor=white&labelColor=000000&cacheSeconds=3600$logoWidth=80"/>
   * <img alt="git" src="https://img.shields.io/badge/git-%20GitHub%20%7C%20GitLab%20-3e1166.svg?&style=flat&logo=git&labelColor=000000&cacheSeconds=3600$logoWidth=80"/>
-  * <img alt="HTML" src="https://img.shields.io/badge/HTML5-spark%20%7C%20HTML-E34F26.svg?&style=flat&logo=HTML5&logoColor=white&labelColor=F99A66&cacheSeconds=3600$logoWidth=40"/>
-  * <img alt="git" src="https://img.shields.io/badge/MySQL-%20MySQL%20%7C%20CloudSQL%20-4479A1.svg?&style=flat&logo=MySQL&labelColor=ffffff&cacheSeconds=3600$logoWidth=80"/>
+  * <img alt="mysql" src="https://img.shields.io/badge/MySQL-%20MySQL%20%7C%20CloudSQL%20-4479A1.svg?&style=flat&logo=MySQL&labelColor=ffffff&cacheSeconds=3600$logoWidth=80"/>
+  * <img alt="CSS3" src="https://img.shields.io/badge/%20CSS3%20-Bootstrap-lightblue.svg?&style=flat&logo=css3&logoColor=white&labelColor=1572B6&cacheSeconds=3600$logoWidth=50"/>
+  * <img alt="JavaScript" src="https://img.shields.io/badge/%20vanillaJS%20%7C%20jQuery-lightyellow.svg?&style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&cacheSeconds=3600$logoWidth=50"/>
 * ### Novice
   * <img alt="R" src="https://img.shields.io/badge/%20%20R%20%20-rpy2%20%7C%20Google%20Colab%20%7C%20r-3757bf.svg?&style=flat&logo=R&labelColor=9E9E99&cacheSeconds=3600$logoWidth=50"/>
-  * <img alt="CSS3" src="https://img.shields.io/badge/%20CSS3%20-learning%20from%20Sololearn-276DC3.svg?&style=social&logo=css3&logoColor=1572B6&labelColor=fffff2&cacheSeconds=3600$logoWidth=50"/>
-  * <img alt="JavaScript" src="https://img.shields.io/badge/%20JavaScript%20-learning%20from%20Sololearn-276DC3.svg?&style=social&logo=javascript&logoColor=F7DF1E&labelColor=fffff2&cacheSeconds=3600$logoWidth=50"/>
 </br>
 <img alt="Google%20Cloud" src="https://img.shields.io/badge/GCP%28GCE%29-Cloud%20Shell%20%7C%20Cloud%20Storage%20%7C%20BigQuery%20%7C%20etc%2E-0C9D58.svg?&style=flat&logo=GoogleCloud&logoColor=white&labelColor=4285F4&cacheSeconds=3600$logoWidth=70"/>
 </br>
@@ -73,58 +73,11 @@
 [comment]: <> (GitHub Profile Trophy 종료 지점)
 </br>
 
-[comment]: <> (wakatime 시작 부분)
 
 [comment]: <> (wakatime 시작 부분)
 
 <div align="center" width="80%">
-
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
-🌆 Daytime    157 commits    █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-🌃 Evening    337 commits    ███████████░░░░░░░░░░░░░░   45.42% 
-🌙 Night      181 commits    ██████░░░░░░░░░░░░░░░░░░░   24.39%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   1 hr 40 mins        █████████████░░░░░░░░░░░░   51.9% 
-sh                       1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   32.36% 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
-
-🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████░░░░░░░░   67.64% 
-Zsh                      1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   32.36%
-
-🐱‍💻 Projects: 
-moadata                  2 hrs 35 mins       ████████████████████░░░░░   80.49% 
-Humanscape               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-project                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-algorithms-and-structures1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-tasks                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
-
-💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 22/05/2022 15:13:13 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
 </br></br>
