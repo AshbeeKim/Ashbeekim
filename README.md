@@ -99,21 +99,21 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+algorithms-and-structures0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/10/2022 15:21:39 UTC
+ Last Updated on 06/10/2022 15:23:14 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
