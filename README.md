@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashbee%20Kim&fontSize=70&fontAlign=75&fontAlignY=45&desc=Codes,%20Docs,%20and%20Papers&descSize=20&descAlign=84&descAlignY=60)
 
-  <div align=center>
+<div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAshbeeKim)](https://hits.seeyoufarm.com) 
-	
-  </div>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ashbeekim)](https://solved.ac/ashbeekim)
+  ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2013%20mins-blue)
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo"/>
+</div>
 
 [//]: <> (대회 끝내고, script 공부하면서 capsule-render 참고한 방식으로 원하는 규격으로 재생성하기)
-
 
 # 🙌🏻 Hello, I'm Ashbee Kim. 
 * ## :file_cabinet: **Project** :file_cabinet:
@@ -68,7 +71,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie"/>
     </a></td>
   </tr>
-</tbody></table>    
+</tbody></table>
 
 [comment]: <> (GitHub Profile Trophy 종료 지점)
 </br>
@@ -78,9 +81,6 @@
 
 <div align="center" width="80%">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2013%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -141,34 +141,15 @@ Windows                  2 hrs 10 mins       ████░░░░░░░�
 [//]: <> (data scientist는 보다 깊은 이해가 필요함_괜히 10년 경력자를 찾는게 아닌 듯_Math, Dev, Domain 삼위일체의 경지)-->
 
 <!--
-https://github-readme-streak-stats.herokuapp.com/demo/. 
-vue, tokypnight_duo, prussian, buefy, blue-green, react, city-lights, ayu_night, blueberry_duo
-[![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo)](https://git.io/streak-stats)
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo"/></p>
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashbeekim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-F0F8FF,D7ECFF,C6E2FF
-7289DA, 9CACE5, aab8e8, b8c4ec, c6cff0, d4dbf3, e2e7f7, f0f3fb, 9AABE5, 9ABDEC
-9CF5E5, A0F5CC, 9ADBE5
--->
-
-<!--
 가벼운 통계
 <img src="https://github-readme-stats.vercel.app/api?username=AshbeeKim&show_icons=true&theme=" width="400">
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 트로피 형태
 https://github.com/ryo-ma/github-profile-trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie&title=Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 3d model of GitHub contribution graph
 https://skyline.github.com/
 -->
-
-<!--embedding markdown fontawesome icon
-rr
-
--->
-
 
 <!--마크다운 주석 처리 방법-->
 [comment]: <> (markdown comment code)
