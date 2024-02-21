@@ -89,7 +89,7 @@
 <div align="center" width="80%" style="padding:2em;">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C554%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C555%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.9%20million%20lines%20of%20code-blue)
 
@@ -109,7 +109,7 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
+Python                   2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
 HTML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
 YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
@@ -124,7 +124,7 @@ Mac                      4 hrs 54 mins       ███████████�
 ```
 
 
- Last Updated on 20/02/2024 15:11:34 UTC
+ Last Updated on 21/02/2024 15:11:30 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
