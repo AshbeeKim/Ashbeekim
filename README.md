@@ -109,18 +109,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     13 mins             █████████████████░░░░░░░░   69.28 % 
-Python                   6 mins              ████████░░░░░░░░░░░░░░░░░   30.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/03/2024 15:11:01 UTC
+ Last Updated on 04/03/2024 15:11:45 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
