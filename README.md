@@ -89,37 +89,12 @@
 <div align="center" width="80%" style="padding:2em;">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C865%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C865%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                607 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-🌆 Daytime                1325 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌃 Evening                1215 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌙 Night                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Other                    19 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-iTerm2                   19 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/08/2024 15:12:14 UTC
+ Last Updated on 22/08/2024 15:12:36 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
