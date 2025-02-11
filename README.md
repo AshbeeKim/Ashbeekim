@@ -69,14 +69,10 @@
 </br>
 <div align="center" style="padding:1em;">
 
-  ![Commit Status](https://github-readme-streak-stats.herokuapp.com?user=AshbeeKim&theme=blueberry_duo)
-
 [//]: <> (https://github.com/ashbeekim/github-readme-stats)
 [//]: <> (https://github-readme-stats.vercel.app/api/wakatime?username=ashbeekim)
 
-| GitHub Stats | GitHub Profile Trophy |
-|:------------:|:---------------------:|
-| <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img width="300px" src="https://github-readme-stats.vercel.app/api?username=ashbeekim&show_icons=true&theme=buefy"/></a>  | [![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy) |
+[![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=ashbeekim&theme=oldie&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
